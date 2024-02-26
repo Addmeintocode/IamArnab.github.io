@@ -1,0 +1,188 @@
+.top-container {
+    padding-bottom: 180px;
+    background-color: #e4f9f5;
+}
+
+.icon {
+    position: absolute;
+    height: 13%;
+    left: 20%;
+    top: 10%;
+}
+
+.top_cloud {
+    position: absolute;
+    left: 1120px;
+    top: 170px;
+}
+
+.bottom_cloud {
+    position: absolute;
+    left: 15%;
+    top: 40%;
+}
+
+.mountain {
+    position: relative;
+    height: 150%;
+    top: 170px;
+    width: 80%;
+}
+
+.medi {
+    height: 180px;
+}
+
+.software {
+    
+    height: 177px;
+    float: left;
+    margin-right: 30px;
+}
+
+.poem {
+    margin: auto;
+    height: 190px;
+    margin-right: 30px;
+    float: right;
+}
+
+h1 {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    position: relative;
+    top: 108px;
+    font-family: "Sacramento", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+    color: #66bfbf;
+}
+
+h2 {
+    color: #66bfbf;
+}
+
+h3 {
+    color: #11999e;
+}
+
+p {
+    position: relative;
+    left: 0%;
+}
+
+#iam {
+    margin-top: 0%;
+    font-family: "Fasthand", cursive;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    top: 200px;
+    left: 42%;
+    font-size: 25px;
+    color: #66bfbf;
+}
+
+body {
+    text-align: center;
+    margin: 0%;
+    font-family: "Handlee", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+}
+
+.contact-me{
+    margin-top:100px;
+}
+.bottom-container {
+    background-color: #66bfbf;
+    font-size: 20px;
+    margin-top: 100px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    text-decoration:none;
+}
+
+.skill-row {
+    width: 50%;
+    text-align: left;
+    margin-left: 430px;
+    margin-top: 90px;
+}
+/* .creative{
+    clear:right;
+} */
+/* #border{
+    border-color: #EAF6F6;
+border-style: dotted none none;
+border-width: 10px;
+width:5%;
+margin-left: 46.5%;
+
+} */
+.border{
+    border-color: #EAF6F6;
+    width: 5%;
+    border-width:10px;
+    border-style:dotted none none;
+    margin-left:46.5%;
+}
+.BUTTON_GNO {
+    background: #9AD0C2;
+    background-image: -webkit-linear-gradient(top, #9AD0C2, #9AD0C2);
+    background-image: -moz-linear-gradient(top, #9AD0C2, #9AD0C2);
+    background-image: -ms-linear-gradient(top, #9AD0C2, #9AD0C2);
+    background-image: -o-linear-gradient(top, #9AD0C2, #9AD0C2);
+    background-image: -webkit-gradient(to bottom, #9AD0C2, #9AD0C2);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+    font-family: Times New Roman;
+    width: 211px;
+    font-size: 40px;
+    font-weight: 100;
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_GNO:hover {
+    border: solid #000000 0;
+    background: #CDFADB;
+    background-image: -webkit-linear-gradient(top, #CDFADB, #BBE2EC);
+    background-image: -moz-linear-gradient(top, #CDFADB, #BBE2EC);
+    background-image: -ms-linear-gradient(top, #CDFADB, #BBE2EC);
+    background-image: -o-linear-gradient(top, #CDFADB, #BBE2EC);
+    background-image: -webkit-gradient(to bottom, #CDFADB, #BBE2EC);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ .contacts-a{
+    color: #EAF6F6;
+    text-decoration:none;
+    position: relative;
+    top: 20px;
+    font-size: 15px;
+ }
+ .footer-link{
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 40px;
+    color: #11999e;
+ }
+ a:hover{
+    color: #EAF6F6;
+ }
+ .github{
+    color: #eED3D9;
+    text-decoration: none;
+ }
